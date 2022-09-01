@@ -1,0 +1,1 @@
+2022-08-03 16:47:03,923 ERROR [org.keycloak.broker.oidc.AbstractOAuth2IdentityProvider] (default task-25) invalid_request for broker login microsoft
